@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int sum_undil_one_digit(string s)
+int sum_until_one_digit(string s)
 {
 	
 		int sum = 0;
